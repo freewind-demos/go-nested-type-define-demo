@@ -1,5 +1,5 @@
-Go Type Struct Demo
-===================
+Go Nested Type Define Demo
+==========================
 
 ```
 brew install go
